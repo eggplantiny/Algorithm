@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce1cb41-cd9e-47b2-8f61-7b511c394178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15683/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15683/testCase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/good.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/polyfill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/tools.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17837/17837.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17837/testCase1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15683/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/15683/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +68,7 @@
       <workItem from="1582524784293" duration="5000" />
       <workItem from="1584582056519" duration="758000" />
       <workItem from="1584664561947" duration="45000" />
-      <workItem from="1585294941230" duration="2320000" />
+      <workItem from="1585294941230" duration="4337000" />
     </task>
     <servers />
   </component>
