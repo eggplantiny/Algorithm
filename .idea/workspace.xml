@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce1cb41-cd9e-47b2-8f61-7b511c394178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15953/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/011.Recursive/10870.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/011.Recursive/10872.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps/011.Recursive/2447.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15683/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/15683/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/good.js" beforeDir="false" afterPath="$PROJECT_DIR$/good.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +43,13 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/steps" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\teddy.s.jung\dev\NodePlayground\17837" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\teddy.s.jung\dev\NodePlayground\utils" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\teddy.s.jung\dev\NodePlayground\17837" />
     </key>
   </component>
   <component name="RunManager">
@@ -73,7 +75,8 @@
       <workItem from="1585294941230" duration="4337000" />
       <workItem from="1585315006752" duration="5218000" />
       <workItem from="1595734889445" duration="1642000" />
-      <workItem from="1595736601629" duration="3049000" />
+      <workItem from="1595736601629" duration="3436000" />
+      <workItem from="1595858238812" duration="1940000" />
     </task>
     <servers />
   </component>
@@ -89,13 +92,16 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="542" y="235" width="596" height="580" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595740655997" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1595858909225">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595858909225" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/utils/tools.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
