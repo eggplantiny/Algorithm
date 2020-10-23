@@ -36,6 +36,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -76,6 +77,7 @@
       <workItem from="1598071200548" duration="5222000" />
       <workItem from="1598083178519" duration="2351000" />
       <workItem from="1598352468435" duration="30000" />
+      <workItem from="1603457176196" duration="18000" />
     </task>
     <servers />
   </component>
