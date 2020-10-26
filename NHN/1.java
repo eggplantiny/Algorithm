@@ -9,7 +9,7 @@ class Main {
     private boolean mIsFaster;
     private char mNickname;
     private int mCatchedCount;
-    
+
     public Participant (char nickname, boolean isFaster, boolean isTagger) {
       this.mNickname = nickname;
       this.mIsFaster = isFaster;
@@ -20,27 +20,27 @@ class Main {
         this.mCatchedCount += 1;
       }
     }
-    
+
     public boolean isTagger () {
       return this.mIsTagger;
     }
-    
+
     public boolean isFaster () {
       return this.mIsFaster;
     }
-    
+
     public char getNickname () {
         return this.mNickname;
     }
-  
+
     public int getCatchedCount () {
         return this.mCatchedCount;
     }
-  
+
     public void addCatchedCount () {
         this.mCatchedCount += 1;
     }
-  
+
     public void setTagger (boolean tagger) {
         this.mIsTagger = tagger;
     }
@@ -52,7 +52,7 @@ class Main {
 
 
 public class CircularQueue {
-    
+
   // 큐 배열은 front와 rear 그리고 maxSize를 가진다.
   private int front;
   private int rear;
@@ -63,20 +63,20 @@ public class CircularQueue {
     this.front = 0;
     this.rear = -1;
 
-    this.maxSize = maxSize+1;    
+    this.maxSize = maxSize+1;
     this.queueArray = new Participant[this.maxSize];
   }
-  
+
   public boolean empty(){
     return (front == rear + 1) || (front + maxSize - 1 == rear);
   }
-  
+
   public boolean full(){
     return (rear == maxSize - 1) || (front + maxSize - 2 == rear);
   }
 
   public void insert(Participant item){
-      
+
     if(full()) throw new ArrayIndexOutOfBoundsException();
 
     if(rear == maxSize - 1){
@@ -84,15 +84,15 @@ public class CircularQueue {
     }
     queueArray[++rear] = item;
   }
-  
+
   public Participant peek(){
       if(empty()) throw new ArrayIndexOutOfBoundsException();
-      
+
       return queueArray[front];
   }
-  
+
   public Participant remove(){
-      
+
     Participant item = peek();
     front++;
 
@@ -121,6 +121,7 @@ public class CircularQueue {
     return result;
   }
 
+
   private static void solution(int numOfAllPlayers, int numOfQuickPlayers, char[] namesOfQuickPlayers, int numOfGames, int[] numOfMovesPerGame){
     // TODO: 이곳에 코드를 작성하세요. 추가로 필요한 함수와 전역변수를 선언해서 사용하셔도 됩니다.
     CircularQueue queue = new CircularQueue (numOfAllPlayers - 1);
@@ -139,7 +140,7 @@ public class CircularQueue {
     int taggerPosition = 0;
     for (int c = 0; c < numOfGames; c++) {
       int move = numOfMovesPerGame[c];
-      
+
       taggerPosition += move;
 
       if (taggerPosition < 0) {
