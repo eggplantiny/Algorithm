@@ -1,6 +1,6 @@
 function solution(N, stages) {
-    const stageArray = Array(5).fill(0)
-    const successArray = Array(5).fill(0)
+    const stageArray = Array(N).fill(0)
+    const successArray = Array(N).fill(0)
 
     for (let n = 0; n < stages.length; n++) {
         const stage = stages[n]
@@ -16,16 +16,20 @@ function solution(N, stages) {
         }
     }
 
-    const result = Array(5).fill(0)
+    const result = Array(N).fill(0)
     for (let c = 0; c < stageArray.length; c++) {
         result[c] = (stageArray[c] - successArray[c]) / stageArray[c]
     }
 
-    return result.map((v, i) => { return { v, i } }).sort((a, b) => a.v - b.v < 0 ? 1 : -1).map(item => item.i + 1)
+    return result
+        .map((v, i) => { return { v, i } })
+        .sort((a, b) => a.v - b.v < 0 ? 1 : -1)
+        .map(item => item.i + 1)
 }
 
-const stages = [2, 1, 2, 6, 2, 4, 3, 3]
-const N = 5
+// const stages = [2, 1, 2, 6, 2, 4, 3, 3]
+const stages = [4,4,4,4,4]
+const N = 4
 
 const zxc = solution(N, stages)
 console.log(zxc)
