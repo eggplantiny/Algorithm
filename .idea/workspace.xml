@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce1cb41-cd9e-47b2-8f61-7b511c394178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algolTest/1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +83,8 @@
       <workItem from="1603457176196" duration="18000" />
       <workItem from="1603521214030" duration="215000" />
       <workItem from="1606525785519" duration="2055000" />
+      <workItem from="1606565732920" duration="756000" />
+      <workItem from="1606658616448" duration="47000" />
     </task>
     <servers />
   </component>
