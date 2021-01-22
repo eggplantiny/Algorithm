@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce1cb41-cd9e-47b2-8f61-7b511c394178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/43163.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/43164.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/good.js" beforeDir="false" afterPath="$PROJECT_DIR$/good.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/43163.js" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/43163.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +54,18 @@
       <recent name="C:\Users\teddy.s.jung\dev\NodePlayground\utils" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.43164.js">
     <configuration name="17837.js" type="NodeJSConfigurationType" application-parameters="4 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 1 1 3 1 1 4 1 4 4" nameIsGenerated="true" path-to-js-file="17837/17837.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="43164.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/programmers/43164.js" working-dir="$PROJECT_DIR$/programmers">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.43164.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -87,26 +97,12 @@
       <workItem from="1606565732920" duration="756000" />
       <workItem from="1606658616448" duration="47000" />
       <workItem from="1607339674565" duration="211000" />
-      <workItem from="1611320570763" duration="1619000" />
+      <workItem from="1611320570763" duration="7703000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="626" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595735021248">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="626" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.947@0.23.1680.947" timestamp="1595735021248" />
-    <state x="542" y="235" width="596" height="580" key="find.popup" timestamp="1595740655997">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="542" y="235" width="596" height="580" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595740655997" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1598075265726">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1598075265726" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

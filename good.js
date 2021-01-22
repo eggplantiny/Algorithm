@@ -1,5 +1,12 @@
-const good = ['hello', 'fucking', 'world']
 
-for (const [a, b] of good.entries()) {
-    console.log(a, b)
+function recursive (n) {
+    if (n === 0) {
+        return 0
+    }
+    console.log(n)
+    return n + recursive(n - 1)
 }
+
+const sum = 2 * recursive(10)
+
+console.log(sum)
