@@ -1,6 +1,6 @@
 
-const random = require('../utils/random')
-const asyncUtil = require('../utils/asyncUtil')
+const random = require('../../utils/random')
+const asyncUtil = require('../../utils/asyncUtil')
 
 const MAX = 1000
 const MAX_OFFSET = 2

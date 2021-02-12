@@ -1,5 +1,5 @@
-const tools = require('../utils/tools');
-require('../utils/polyfill');
+const tools = require('../../utils/tools');
+require('../../utils/polyfill');
 
 /*
 * 최대 (8, 4) permutation 하는 문제

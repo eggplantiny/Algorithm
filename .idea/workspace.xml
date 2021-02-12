@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bce1cb41-cd9e-47b2-8f61-7b511c394178" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NHN/1.java" beforeDir="false" afterPath="$PROJECT_DIR$/NHN/1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acmicpc/1194/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/acmicpc/1194/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acmicpc/15683/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/acmicpc/15683/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/automaton/automaton.js" beforeDir="false" afterPath="$PROJECT_DIR$/etc/automaton/automaton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/good.js" beforeDir="false" afterPath="$PROJECT_DIR$/good.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -42,13 +46,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\teddy.s.jung\dev\NodePlayground\utils" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/etc" />
+      <recent name="$PROJECT_DIR$/acmicpc" />
       <recent name="$PROJECT_DIR$/steps" />
       <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\teddy.s.jung\dev\NodePlayground\17837" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\teddy.s.jung\dev\NodePlayground\utils" />
     </key>
   </component>
   <component name="RunManager">
@@ -82,6 +88,11 @@
       <workItem from="1598352468435" duration="30000" />
       <workItem from="1603457176196" duration="18000" />
       <workItem from="1603521214030" duration="215000" />
+      <workItem from="1603975205021" duration="223000" />
+      <workItem from="1604128989256" duration="9563000" />
+      <workItem from="1604927668409" duration="487000" />
+      <workItem from="1605335143606" duration="24000" />
+      <workItem from="1613132091150" duration="981000" />
     </task>
     <servers />
   </component>
@@ -89,6 +100,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604129766095">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604129766095" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1604132322479">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1604132322479" />
+    <state x="488" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604131845445">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="488" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1604131845445" />
     <state x="626" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595735021248">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -97,10 +120,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="542" y="235" width="596" height="580" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595740655997" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1598075265726">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604132509592">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1598075265726" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604132509592" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
