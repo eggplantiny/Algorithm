@@ -1,3 +1,4 @@
+
 const random = require('./utils/random')
 
 const asd = random.getRandomInt(0, 78)
